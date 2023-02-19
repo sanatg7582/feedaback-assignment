@@ -44,7 +44,11 @@ module.exports = {
               path: './.env',
               safe: true, 
           }),
-          
+          new CopyPlugin({
+            patterns: [
+              { from: "public", to: "" },
+            ],
+          }),
          
         ],
 }
