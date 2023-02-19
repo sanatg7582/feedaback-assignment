@@ -1,17 +1,14 @@
 # feedaback-assignment
 
-In the project directory, you can run:
+_install all project dependencies your need run this comment Inside the project directory, you can run:_
 
 **npm install**
 
-install all project dependencies
-
-
-for local serve you need to run this command inside project directory
+_for local serve you need to run this command inside project directory_
 
 **npm run dev**
 
-for profuction build you need to run this command inside project directory
+_for profuction build you need to run this command inside project directory_
 
 **npm run build**
 
