@@ -1,11 +1,13 @@
 import React from 'react'
 import styles from './App.module.scss'
+import Layout from './components/Shared/Layout'
 
 
 function App(){
+
     return (
         <div className={styles.App}>
-           <h1>Hello World</h1>
+           <Layout />
         </div>
     )
 }

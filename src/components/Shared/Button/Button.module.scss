@@ -1,0 +1,20 @@
+.primary{
+    padding: 10px;
+    background: dodgerblue;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-weight: 800;
+}
+.warning{
+    padding: 10px;
+    background: orange;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-weight: 800;
+}
+.disable{
+    background-color: gray;
+    cursor: not-allowed;
+}
