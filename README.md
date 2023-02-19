@@ -8,7 +8,7 @@ _for local serve you need to run this command inside project directory_
 
 **npm run dev**
 
-_for profuction build you need to run this command inside project directory_
+_for production build you need to run this command inside project directory_
 
 **npm run build**
 
